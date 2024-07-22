@@ -151,6 +151,11 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
       </a>
     </td>
     <td align="center" valign="middle">
+      <a href="https://not-on-gamstop.com" target="_blank">
+        <img src="https://not-on-gamstop.com/wp-content/uploads/2021/05/nongamstopfav.png" alt="Casinos not on Gamstop" width="160">
+      </a>
+    </td>
+    <td align="center" valign="middle">
       <a href="https://insfollowpro.com/" target="_blank">
         <img src="https://swiperjs.com/images/sponsors/insfollowpro.png" alt="Buy Instagram followers" width="160">
       </a>
